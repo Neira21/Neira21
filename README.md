@@ -19,6 +19,19 @@
 <br>
 skills
 
+
+
+## 📊GitHub Stats :
+
+![Neira21's GitHub Stats](https://github-readme-stats.vercel.app/api?username=neira21&show_icons=true&theme=github_dark)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=neira21&theme=github-dark&hide_border=true)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=neira21&layout=compact&theme=github_dark)](https://github.com/neira21)
+
+
+
+
 ## <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="50px" height="50px"> Feel free to contact me
 
 <p align="center">
