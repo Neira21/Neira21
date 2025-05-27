@@ -3,19 +3,16 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=%2338C2FF&size=50&center=true&vCenter=true&height=60&width=600&lines=Heyyy!+I'm+Alvaro!!!;Welcome+to+my+profile!" alt="Title"></img>
 </div>
 
-
-  <hr>
-<p align="center">
-  
-</p>
-
+<hr>
+<p align="center"></p>
 
 ## <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="50px" height="50px"></img> About Me
 
 - 🧑🏻 My full name is **Alvaro Neira Riveros** <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="180">
 - 📖 I’m majoring in **Computer and Systems Engineering**.
 - 💻 I enjoy programming and building web and mobile applications.
-- 🚀 Currently learning and improving my skills in **React**, **Angular**, and **React Native**.
+- 🚀 Currently learning and improving my skills in **React**, **Angular**, **Springboot** and **React Native**.
+- 🎯 I generally enjoy working with **React**, **Tailwind CSS**, and **NodeJS** to build fast and responsive user interfaces.
 - 📚 Always happy to learn new technologies and tools.
 - 🤝 Open to collaboration on interesting projects.
 
@@ -38,13 +35,38 @@
 
 <br>
 
-## <img src='https://media1.giphy.com/media/ww9Z3l8wl4szKyRIro/giphy.gif?cid=6c09b9520fbeh3st3881aensbfaaw9cvqfnfblovomtx4q8g&ep=v1_gifs_search&rid=giphy.gif&ct=g' width="50" height="40px"> GitHub Stats:
+
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/b21bc4c8-288c-4014-9078-5a268568e093" width="120" />
+</p>
+
+
+
+## 🌐 Portafolio
+
+🔗 [¡Visita mi portafolio!](https://portfolio-alvaro-neira.vercel.app/)
+
+<br>
+
+
+## <img src='https://media1.giphy.com/media/ww9Z3l8wl4szKyRIro/giphy.gif?cid=6c09b9520fbeh3st3881aensbfaaw9cvqfnfblovomtx4q8g&ep=v1_gifs_search&rid=giphy.gif&ct=g' width="50" height="40px"> GitHub Stats
+
+### 📊 Actividad general
 
 <img src="https://github-readme-stats.vercel.app/api?username=neira21&show_icons=true&theme=radical" /><br/>
 
+### 🔥 Racha de contribuciones
+
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=neira21&theme=radical&hide_border=false" /><br/>
 
+### ⭐ Lenguajes más usados
+
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=neira21&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
+
+## 🏆 GitHub Trofeos
+
+[![Trophy](https://github-profile-trophy.vercel.app/?username=neira21&theme=gruvbox&margin-w=10&no-bg=true&row=1)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="50px" height="50px"> Feel free to contact me
 
