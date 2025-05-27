@@ -21,6 +21,7 @@
 
 <br/>
 
+
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="50px" height="50px"> Some Languages and Tools
 
 | **Category**               | **Icons**                                                                                             |
@@ -35,21 +36,15 @@
 | **Platforms, Tools**        | <img src="https://skillicons.dev/icons?i=vscode" width="42" height="42"/> <img src="https://skillicons.dev/icons?i=postman" width="42" height="42"/> <img src="https://skillicons.dev/icons?i=figma" width="42" height="42"/> <img src="https://skillicons.dev/icons?i=docker" width="42" height="42"/> <img src="https://skillicons.dev/icons?i=netlify" width="42" height="42"/> <img src="https://skillicons.dev/icons?i=notion" width="42" height="42"/> <img src="https://skillicons.dev/icons?i=npm" width="42" height="42"/>  <img src="https://skillicons.dev/icons?i=prisma" width="42" height="42"/> <img src="https://skillicons.dev/icons?i=sequelize" width="42" height="42"/> <img src="https://skillicons.dev/icons?i=vercel" width="42" height="42"/> <img src="https://skillicons.dev/icons?i=visualstudio" width="42" height="42"/> <img src="https://skillicons.dev/icons?i=vite" width="42" height="42"/> <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" width="42" height="42"/> <img src="https://skillicons.dev/icons?i=wordpress" width="42" height="42"/> <img src="https://skillicons.dev/icons?i=windows" width="42" height="42"/> |
 | **Version Control**         | <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="42" height="42"/> <img src="https://skillicons.dev/icons?i=github" width="42" height="42"/> |
 
+<br>
 
+## <img src='https://media1.giphy.com/media/ww9Z3l8wl4szKyRIro/giphy.gif?cid=6c09b9520fbeh3st3881aensbfaaw9cvqfnfblovomtx4q8g&ep=v1_gifs_search&rid=giphy.gif&ct=g' width="50" height="40px"> GitHub Stats:
 
-  <br>
+<img src="https://github-readme-stats.vercel.app/api?username=neira21&show_icons=true&theme=radical" /><br/>
 
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=neira21&theme=radical&hide_border=false" /><br/>
 
-## 📊GitHub Stats :
-
-![Neira21's GitHub Stats](https://github-readme-stats.vercel.app/api?username=neira21&show_icons=true&theme=github_dark)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=neira21&theme=github-dark&hide_border=true)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=neira21&layout=compact&theme=github_dark)](https://github.com/neira21)
-
-
-
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=neira21&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
 
 ## <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="50px" height="50px"> Feel free to contact me
 
